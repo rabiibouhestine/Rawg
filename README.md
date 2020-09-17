@@ -4,6 +4,8 @@ R API wrapper for [RAWG.io](https://rawg.io/)
 
 Rawg is an R package which provides access to the RAWG.io API. Complete functionality of the API is supported.
 
+A small shiny app to demonstrate what can be achieved using the package Rawg can be found [here](https://rabiibouhestine.shinyapps.io/rawg-demo/).
+
 ## Installation
 
 ### Github
