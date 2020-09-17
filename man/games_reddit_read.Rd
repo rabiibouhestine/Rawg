@@ -22,5 +22,5 @@ IF FALSE, the result will be a list that matches the API json response.}
 Get a list of most recent posts from the game's subreddit
 }
 \examples{
-games_reddit_read("my_app", id)
+games_reddit_read("my_app", id=1)
 }

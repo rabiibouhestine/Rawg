@@ -22,5 +22,5 @@ IF FALSE, the result will be a list that matches the API json response.}
 Get screenshots for the game
 }
 \examples{
-games_screenshots_list("my_app", id)
+games_screenshots_list("my_app", id=1)
 }

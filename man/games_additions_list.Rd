@@ -22,5 +22,5 @@ IF FALSE, the result will be a list that matches the API json response.}
 Get a list of DLC's for the game
 }
 \examples{
-games_additions_list("my_app", id)
+games_additions_list("my_app", id=1)
 }

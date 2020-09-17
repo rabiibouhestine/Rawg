@@ -22,5 +22,5 @@ IF FALSE, the result will be a list that matches the API json response.}
 Get details of the genre.
 }
 \examples{
-genres_read("my_app", id)
+genres_read("my_app", id=1)
 }

@@ -22,5 +22,5 @@ IF FALSE, the result will be a list that matches the API json response.}
 Get details of the publisher
 }
 \examples{
-publishers_read("my_app", id)
+publishers_read("my_app", id=1)
 }

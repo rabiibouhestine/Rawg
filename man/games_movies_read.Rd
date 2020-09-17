@@ -22,5 +22,5 @@ IF FALSE, the result will be a list that matches the API json response.}
 Get a list of game trailers
 }
 \examples{
-games_movies_read("my_app", id)
+games_movies_read("my_app", id=1)
 }

@@ -22,5 +22,5 @@ IF FALSE, the result will be a list that matches the API json response.}
 Get links to the stores that sell the game
 }
 \examples{
-games_stores_list("my_app", id)
+games_stores_list("my_app", id=1)
 }

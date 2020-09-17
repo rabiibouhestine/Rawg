@@ -22,5 +22,5 @@ IF FALSE, the result will be a list that matches the API json response.}
 Get a list of parent games for DLC's and editions
 }
 \examples{
-games_parent_games_list("my_app", id)
+games_parent_games_list("my_app", id=1)
 }

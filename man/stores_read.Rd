@@ -22,5 +22,5 @@ IF FALSE, the result will be a list that matches the API json response.}
 Get details of the store
 }
 \examples{
-stores_read("my_app", id)
+stores_read("my_app", id=1)
 }
