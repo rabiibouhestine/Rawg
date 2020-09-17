@@ -1,0 +1,17 @@
+Package: Rawg
+Type: Package
+Title: R API wrapper for RAWG.io
+Version: 0.1.0
+Author: person("Rabii", "Bouhestine", email = "rabiibouhestine@outlook.com",
+                  role = c("aut", "cre"))
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Rawg is an R package which provides access to the RAWG.io API. 
+    Complete functionality of the API is supported.
+Depends: R (>= 3.2)
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports:
+    httr (>= 1.4.2),
+    jsonlite (>= 1.7.1)
